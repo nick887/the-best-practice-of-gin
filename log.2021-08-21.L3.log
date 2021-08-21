@@ -1,0 +1,30 @@
+{"level":"fatal","method":"GET","msg":"","time":"2021-08-21 02:33:01","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/v1/hello","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""}}
+time="2021-08-21T02:33:55+08:00" level=info msg="Server Running on Port : 9090"
+{"level":"error","method":"GET","msg":"","time":"2021-08-21 02:33:59","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/v1/hello","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""}}
+time="2021-08-21T02:33:59+08:00" level=error method=GET url=/v1/hello
+time="2021-08-21T02:33:59+08:00" level=info client_ip="::1" latency_time=3.40725ms req_method=GET req_uri=/v1/hello status_code=200
+time="2021-08-21T02:37:40+08:00" level=info msg="Server Running on Port : 9090"
+{"level":"error","method":"GET","msg":"","time":"2021-08-21 02:37:44","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/v1/hello","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""}}
+time="2021-08-21T02:37:44+08:00" level=error method=GET url=/v1/hello
+time="2021-08-21T02:37:44+08:00" level=info client_ip="::1" latency_time=5.322542ms req_method=GET req_uri=/v1/hello status_code=500
+time="2021-08-21T02:40:04+08:00" level=info msg="Server Running on Port : 9090"
+{"level":"error","method":"GET","msg":"","time":"2021-08-21 02:40:08","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/v1/hello","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""}}
+time="2021-08-21T02:40:08+08:00" level=error method=GET url=/v1/hello
+time="2021-08-21T02:40:08+08:00" level=info client_ip="::1" latency_time=3.606208ms req_method=GET req_uri=/v1/hello status_code=200
+time="2021-08-21T02:40:47+08:00" level=info msg="Server Running on Port : 9090"
+{"level":"error","method":"GET","msg":"","time":"2021-08-21 02:40:50","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/v1/hello","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""}}
+time="2021-08-21T02:40:50+08:00" level=error method=GET url=/v1/hello
+[36mINFO[0m[0000] Server Running on Port : 9090                
+{"level":"error","method":"GET","msg":"","time":"2021-08-21 02:47:53","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/v1/hello","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""}}
+[31mERRO[0m[0007]                                               [31mmethod[0m=GET [31murl[0m=/v1/hello
+{"level":"info","msg":"Server Running on Port : 9090","time":"2021-08-21 02:53:08"}
+{"level":"error","method":"GET","msg":"","time":"2021-08-21 02:53:20","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/v1/hello","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""}}
+{"level":"error","method":"GET","msg":"","time":"2021-08-21 02:53:20","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/v1/hello","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""}}
+{"level":"info","msg":"Server Running on Port : 9090","time":"2021-08-21 02:53:45"}
+{"level":"error","method":"GET","msg":"","time":"2021-08-21 02:53:48","url":"/v1/hello"}
+{"level":"error","method":"GET","msg":"","time":"2021-08-21 02:53:48","url":"/v1/hello"}
+{"level":"error","method":"GET","msg":"","time":"2021-08-21 02:53:50","url":"/v1/hello"}
+{"level":"error","method":"GET","msg":"","time":"2021-08-21 02:53:50","url":"/v1/hello"}
+{"level":"info","msg":"Server Running on Port : 9090","time":"2021-08-21 02:54:16"}
+{"level":"error","method":"GET","msg":"","time":"2021-08-21 02:54:18","url":"/v1/hello"}
+{"level":"error","method":"GET","msg":"","time":"2021-08-21 02:54:18","url":"/v1/hello"}
